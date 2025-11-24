@@ -3,7 +3,7 @@
   "version": "0.9.27",
   "description": "Small but fast C compiler, compatible with most GNUC extensions",
   "build_url": "git://repo.or.cz/tinycc.git",
-  "build": "cd /tmp/tinycc/ && ./configure && make",
+  "build": "cd /tmp/tcc/ && ./configure && make",
   "binary_name": "tcc",
   "binary_dir": "",
   "dependencies": ["make", "gcc"],
