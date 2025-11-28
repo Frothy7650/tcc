@@ -2,7 +2,8 @@
   "name": "tcc",
   "version": "0.9.27",
   "description": "Small but fast C compiler, compatible with most GNUC extensions",
-  "build_url": "git://repo.or.cz/tinycc.git",
+  "clone_command": "git clone ",
+  "clone_url": "git://repo.or.cz/tinycc.git"
   "build": "cd /tmp/tcc/ && ./configure && make",
   "binary_name": "tcc",
   "binary_dir": "",
