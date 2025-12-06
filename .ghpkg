@@ -1,6 +1,5 @@
 {
   "name": "tcc",
-  "version": "0.9.27",
   "description": "Small but fast C compiler, compatible with most GNUC extensions",
   "clone_command": "git clone ",
   "clone_url": "git://repo.or.cz/tinycc.git",
